@@ -43,7 +43,7 @@ white = "\033[0;39m"
 
 historicochat = []
 print(f"{yellow}---------------------------------------------------------------------------------")
-print('Bem vindo a IA da AMDLAN.')
+print('Bem vindo a IA Leitora de PDF.')
 print('---------------------------------------------------------------------------------')
 while True:
     pergunta = input(f"{green}Digite: ")
